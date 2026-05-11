@@ -1,7 +1,32 @@
- [
+[
   {
-    "id": "1",
-    "name": "product -1",
-    "price": 500
+    "id": 1,
+    "name": "iPhone 15 Pro",
+    "price": 165000,
+    "description": "Apple flagship smartphone with A17 Pro chip and titanium body."
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24 Ultra",
+    "price": 149999,
+    "description": "Premium Android smartphone with S Pen and powerful camera system."
+  },
+  {
+    "id": 3,
+    "name": "MacBook Air M3",
+    "price": 185000,
+    "description": "Lightweight Apple laptop powered by the M3 chip for fast performance."
+  },
+  {
+    "id": 4,
+    "name": "Sony WH-1000XM5",
+    "price": 42000,
+    "description": "Wireless noise-cancelling headphones with excellent sound quality."
+  },
+  {
+    "id": 5,
+    "name": "Logitech MX Master 3S",
+    "price": 12500,
+    "description": "Advanced wireless mouse designed for productivity and creative work."
   }
 ]
