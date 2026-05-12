@@ -6,3 +6,7 @@ export const getProduct=()=>{
     const data=fs.readFileSync(filePath,'utf-8')
     return JSON.parse(data)
 }
+
+export const postProduct =(product:any)=>{
+    fs.writeFileSync(filePath,JSON.stringify(product))
+}

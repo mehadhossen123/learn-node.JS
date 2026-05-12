@@ -1,11 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "iPhone 15 Pro",
-    "price": 165000,
-    "description": "Apple flagship smartphone with A17 Pro chip and titanium body."
-  },
-  {
     "id": 2,
     "name": "Samsung Galaxy S24 Ultra",
     "price": 149999,
@@ -19,9 +13,9 @@
   },
   {
     "id": 4,
-    "name": "Sony WH-1000XM5",
-    "price": 42000,
-    "description": "Wireless noise-cancelling headphones with excellent sound quality."
+    "name": "ABC",
+    "description": "the product is best",
+    "price": 499
   },
   {
     "id": 5,
